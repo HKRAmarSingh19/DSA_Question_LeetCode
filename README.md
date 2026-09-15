@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0001-two-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
