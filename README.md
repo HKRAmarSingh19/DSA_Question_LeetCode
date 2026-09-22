@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -45,5 +46,18 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
