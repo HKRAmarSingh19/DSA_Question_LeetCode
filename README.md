@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -44,6 +45,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
