@@ -51,6 +51,7 @@
 | [0231-power-of-two](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0461-hamming-distance) |
 ## Sorting
 |  |
 | ------- |
