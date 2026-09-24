@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -45,6 +46,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
