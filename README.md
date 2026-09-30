@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
