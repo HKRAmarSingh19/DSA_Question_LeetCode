@@ -12,6 +12,7 @@
 | [0287-find-the-duplicate-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1854-maximum-population-year) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
+| [1748-sum-of-unique-elements](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1854-maximum-population-year) |
 ## Sliding Window
 |  |
