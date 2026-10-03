@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HKRAmarSingh19/DSA_Question_LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
